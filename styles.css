@@ -40,3 +40,9 @@ p {
     font-size: 1.5rem;
     font-weight: 1.5rem;
 }
+#titulo-pagina {
+    background-color: aqua;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    display: inline-block;
+}
