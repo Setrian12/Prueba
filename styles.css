@@ -40,7 +40,7 @@ p {
     font-size: 1.5rem;
     font-weight: 1.5rem;
 }
-#titulo-pagina {
+.titulo-pagina {
     background-color: aqua;
     padding: 1rem 2rem;
     border-radius: 8px;
