@@ -3,7 +3,7 @@ body {
     color: #050d02;
 }
 h1 {
-    color: #964B00;
+    color: #ffffff;
     font-size: 2.5rem;
 } 
 h2 {
@@ -41,7 +41,7 @@ p {
     font-weight: 1.5rem;
 }
 .titulo-pagina {
-    background-color: aqua;
+    background-color: #0d5649;
     padding: 1rem 2rem;
     border-radius: 8px;
     display: inline-block;
